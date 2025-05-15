@@ -1,7 +1,7 @@
 # Handwritten Word/Phrase Recognition App Documentation
 
 ## Project Overview
-The Handwritten Word/Phrase Recognition App is a Streamlit-based web application designed to recognize handwritten words or phrases containing digits (0-9), uppercase letters (A-Z), and lowercase letters (a-z). Users can input handwriting via a drawing canvas or by uploading an image. The app uses OpenCV for character segmentation and a pre-trained TensorFlow/Keras model for character recognition, providing detailed results including the recognized phrase, confidence scores, and a visualization of segmented characters.
+The Handwritten Word/Phrase Recognition App is a Streamlit-based web application designed to recognize handwritten words or phrases containing digits (0-9), uppercase letters (A-Z), and lowercase letters (a-z). Users can input handwriting via a drawing canvas or by uploading an image. It offers a user-friendly interface that makes the recognition process intuitive and accessible. The app uses OpenCV for character segmentation and a pre-trained TensorFlow/Keras model for character recognition, providing detailed results including the recognized phrase, confidence scores, and a visualization of segmented characters.
 
 ### Purpose
 The project aims to provide an interactive tool for recognizing handwritten text, suitable for educational, prototyping, or research purposes. It demonstrates the integration of computer vision (OpenCV) and deep learning (TensorFlow/Keras) in a user-friendly web interface.
